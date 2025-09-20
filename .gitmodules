@@ -1,0 +1,6 @@
+[submodule "ai-services-prototype-frontend"]
+	path = ai-services-prototype-frontend
+	url = https://github.com/domster704/ai-services-prototype-frontend.git
+[submodule "ai-services-prototype-backend"]
+	path = ai-services-prototype-backend
+	url = https://github.com/domster704/ai-services-prototype-backend.git
